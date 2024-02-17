@@ -1,0 +1,1 @@
+export {default as EditBookBtn} from './index.vue'

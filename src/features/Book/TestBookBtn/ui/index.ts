@@ -1,0 +1,1 @@
+export {default as TestBookBtn} from './index.vue';

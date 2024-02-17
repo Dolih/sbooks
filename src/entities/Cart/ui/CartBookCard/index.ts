@@ -1,0 +1,1 @@
+export {default as CartBookCard} from './index.vue'
